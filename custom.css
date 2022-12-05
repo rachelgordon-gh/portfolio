@@ -1,0 +1,7 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+/*buttons */
+.btn-primary {background-color: #D4A373;border-color: #D4A373;} 
+.btn-primary:hover {color: #fff; background-color: #C0715D;border-color: #C0715D;}
+
+.bg-light {background-color: blue}
