@@ -1,1 +1,22 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+/*buttons */
+.btn-primary {background-color: #808080;border-color: #808080;} 
+.btn-primary:hover {color: #fff; background-color: #C0715D;border-color: #C0715D;}
+
+#navbarResponsive {background-color: #808080!important}
+#mainNav {background-color: #808080!important}
+
+.navbar-dark .navbar-nav .nav-link {color: white;}
+
+#uxanddesignwork {background-color: #A9C3B6!important}
+
+#writing {background-color: #CEDFDF!important}
+
+#photovideo {background-color: #B7D1D3!important}
+ 
+#resume {background-color: #A6C3CE!important}
+
+.bg-dark{background-color: #blue}
+
+.bg-dark {--bs-bg-opacity: 1; background-color:  #808080!important;}
